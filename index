@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>313 Design CO./LLC-Portfolio-Website Design-Freelance User Interface Designer in Detroit, MI</title>
+		<link rel="stylesheet" href=css/main.css>
+	</head>
+	
+	<body>
+	<header>	
+		<nav>
+		<ul class="list-nav">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html"> A Little About Us</a></li>
+				<li><a href="portfolio.html">Gallery</a></li>
+				<li><a href="ContactUs.html">Contact Us</a></li>
+		</ul>
+		</nav>
+			<img src="images/logoforweb.png" alt="313 Design Co Logo">
+			<h1>313 Design Co.</h1>
+	</header>
+	
+		<div class="about">
+		
+			<h2>A Little About Us</h2>
+				<blockquote>
+				"We are a friendly graphic &amp; web design studio <em>always</em> ready to work."
+				</blockquote>
+		
+			
+			<p> If you need a new website for your business, or whether you just need to spice up your current one, 
+			we can produce a brilliant, user friendly, standards compliant website that your visitors can appreciate and trust.
+			With so many web technologies evolving constantly its hard to say I'm limited to only these mentioned, 
+			if something else needs to be utilised in order to achieve the right solution then that's what is done. Keeping User Friendliness, 
+			Web Standards Compliance, Cross Browser Compatibility, Time Management in mind.</p>
+		</div>
+		
+		<article>	
+			<header>
+				<h2>What We Do</h2>
+			</header>
+			<footer>		
+					<ol class="what we do">
+						<li>Web Design</li>
+						<li>Mobile Design</li>
+						<li>Web App Design</li>
+						<li>Coperate Identity</li>
+					</ol>
+			</footer>		
+		</article>
+		
+				
+		<h2>Gallery</h2>
+		
+		<div>
+			<ul class="portfolio">
+				<li><a target="_blank" href="images/75yearsocial.jpg"><img src="images/75yearsocial.jpg" alt="Wayne State School of Social Work"></a></li>
+				<li><a target="_blank" href="images/redpartykappa.jpg"><img src="images/redpartykappa.jpg" alt="Kappa Alpha Red Party Invite"></a></li>
+				<li><a target="_blank" href="images/mixologycover.jpg"><img src="images/mixologycover.jpg" alt="Mixology Book Cover"></a></li>
+				<li><a target="_blank" href="images/logoforweb.png"><img src="images/logoforweb.png" alt="313 Design Co. Logo"></a></li>
+			</ul>
+		</div>
+	
+			<header>
+				<h2>Featured Article of the Month</h2>
+				<h4>Vintage and Retro Typography Showcase by: Robert Bowen <a target="http://www.smahingmagazine.com/2008/10/26/retro-and-vintage-typography-showcase" href="http://www.smashingmagazine.com/2008/10/26/retro-and-vintage-typography-showcase"></a></h4>
+				
+			<h2>Contact Us</h2>
+			<form method="get" action="mailto:313designco@sbcglobal.net">
+			
+		<footer class="footer">
+			<p>313 Design Co.</p>
+            <p>Copyright &copy; 2012</p>
+        </footer>
+    </body>
+</html>
