@@ -77,6 +77,11 @@ blockquote{
 	float:left;
 }
 
+ul li{
+	float:left;
+
+}
+
 a:hover{
 	color:00aeef;
 	background:white;
@@ -86,20 +91,20 @@ a:visted{
 }
 
 /*--------------------------------Image Gallery----------------------------------------------------------*/
-.portfolio img{
+.gallery img{
 	margin:5.88235% auto;
 	list-style-type:none;
 	width:94.11765%;
 }
 
-.portfolio li{
+.gallery li{
 	float:left;
 	overflow:hidden;
 	padding:5.88235%;
 	clear:auto;
 }
 
-.portfolio a{
+.gallery a{
 	width:94.11765%;
 	border:solid;
 	display:block;
