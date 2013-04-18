@@ -44,7 +44,11 @@ ol li{
 h1{
 	text-shadow: 2px 2px 2px #111;
 	font-family:'Roboto Condensed', sans-serif;
+}
 
+h2, h3, h4{
+	font-family: 'Roboto Condensed', sans-serif;
+}
 
 /* -------------------------------Nav Elements--------------------------------------------------- */
 
