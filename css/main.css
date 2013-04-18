@@ -62,7 +62,7 @@ ul{
 	background:black;
 	list-style-type:none;
 	padding:0;
-	overflow:auto;
+	overflow:hidden;
 	font-size:1.5em;
 	border:11.7647% solid black;
 	border-radius:11.76471%;
@@ -71,7 +71,7 @@ ul{
 	line-height:50px;
 	text-align:center;
 	color:00aeef;
-	background:#9ebf3b;
+	background:black;
 	font-family:'Roboto Condensed', sans-serif;
 
 }
