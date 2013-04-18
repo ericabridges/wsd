@@ -47,15 +47,15 @@ h1{
 }
 
 h2, h3, h4{
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family:'Roboto Condensed', sans-serif;
 }
 
 /* -------------------------------Nav Elements--------------------------------------------------- */
 
-#navigation{
-	width:94.117647058%;
+ul{
+	width:500px;
 	margin: 0 auto;
-	background:#9ebf3b;
+	background:black;
 	list-style-type:none;
 	padding:0;
 	overflow:auto;
@@ -66,10 +66,14 @@ h2, h3, h4{
 	height:50px;
 	line-height:50px;
 	text-align:center;
-	color:black;
+	color:00aeef;
 	background:#9ebf3b;
-	font-family: arial, sans-serif;
+	font-family:'Roboto Condensed', sans-serif;
 
+}
+
+li{
+	float:left;
 }
 
 a{
@@ -116,107 +120,3 @@ a:visted{
 
 /* -------------------------------Email Elements------------------------------------------------ */
 
-/*-------------------------Table Elements----------------------------------------------------------*/
-
-table{
-	border-collapse:collapse;
-	border:.117647% solid #999;
-}
-
-td{
-	border:1px solid #000;
-	text-align:center;
-	padding:0.3em;
-
-}
-
-th{
-	text-align:center;
-	background-color:#000;
-	color:#9ebf3b;
-	padding:0.3em;
-}
-
-.packages{
-	background-color:#999;
-	text-color:#000;
-}
-
-.cost{
-	background-color:#fff;
-}
-
-.details{
-	background-color:#fff;
-}
-
-/*-------------------------Form Elements----------------------------------------------------------*/
-
-input:focus{
-	border-color:black;
-	background:grey;
-}
-
-/*-------------------------Footer Elements----------------------------------------------------------*/
-.footer{
-	text-align:center;
-	clear:left;
-	margin:0 auto;
-}
-
-/* =Media Queries
-============================================================ */
-
-/* Tablet Portrait size to standard 960 (device and browsers)*/
-@media screen and (min-width:768px) and (max-width:959px){
-	
-	.portfolio{
-		width:auto;
-		float:none;
-	}
-	
-	.list-nav{
-		overflow:none;
-		float:none;
-		overflow:none;
-	}
-	
-	.about{
-		float:none;
-	}
-	
-}
-/* Mobile Landscape size to Tablet Portrait (device and browsers)*/
-@media screen and (min-width:480px) and (max-width:767px){
-	
-	.portfolio{
-		width:auto;
-		float:none;
-	}
-	
-	.list-nav{
-		overflow:none;
-		float:none;
-		overflow:none;
-	}
-	
-	.about{
-		float:none;
-	}
-}
-/* Mobile Portrait Size size to Mobile Landscape (device and browsers)*/
-@media screen and (max-width:479px){
-	
-	.portfolio{
-		width:auto;
-		float:none;
-}
-	.list-nav{
-		overflow:none;
-		float:none;
-		overflow:none;
-	}
-	.about{
-		float:none;
-	}
-}
