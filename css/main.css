@@ -12,7 +12,7 @@ body{
 	max-width:850px;
 	max-height:2500px;
 	margin: 0 auto;
-	background-color:#ffff;
+	background-color:#fff;
 	border:.352941% solid #666;
 	border-radius:1.176471%;
 	-moz-box-shadow:5px 5px 5px #666;
@@ -43,8 +43,7 @@ ol li{
 
 h1{
 	text-shadow: 2px 2px 2px #111;
-	font-family: 'Coda', cursive;
-}
+	font-family:'Roboto Condensed', sans-serif;
 
 
 /* -------------------------------Nav Elements--------------------------------------------------- */
