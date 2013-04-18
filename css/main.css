@@ -23,15 +23,6 @@ body{
 	font:100%;
 }
 
-ol li{
-	display:block;
-	padding:1.176471%;
-	margin:0 auto;
-	width:46.470588%;
-	float:left;
-	font-family:'Roboto Condensed', sans-serif;
-}
-
 .about p{
 	margin: 0 20px;
 	-moz-column-count:3;
