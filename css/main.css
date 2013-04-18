@@ -81,9 +81,11 @@ ul{
 }
 
 a{
-	width:23.529412%;
+	text-decoration:none;
 	display:block;
-	float:left;	
+	height:30px;
+	line-height:30px;
+	text-align: center;	
 }
 
 a:hover{
