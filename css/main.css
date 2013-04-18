@@ -37,6 +37,7 @@ ol li{
 	-moz-column-gap:0.2941176%;
 	column-count:3;
 	column-gap:0.2941176%;
+	font-family:'Roboto Condensed', sans-serif;
 }
 
 h1{
@@ -47,14 +48,13 @@ h1{
 
 /* -------------------------------Nav Elements--------------------------------------------------- */
 
-.list-nav{
+#navigation{
 	width:94.117647058%;
 	margin: 0 auto;
 	background:#9ebf3b;
 	list-style-type:none;
 	padding:0;
 	overflow:auto;
-	font-family: arial, sans-serif;
 	font-size:1.5em;
 	border:11.7647% solid black;
 	border-radius:11.76471%;
@@ -64,7 +64,7 @@ h1{
 	text-align:center;
 	color:black;
 	background:#9ebf3b;
-	font-family:Anthology;
+	font-family: arial, sans-serif;
 
 }
 
