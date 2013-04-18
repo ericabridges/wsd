@@ -1,0 +1,218 @@
+
+/*-------------------------Body Elements----------------------------------------------------------*/
+html { 
+	background:url("../images/carbon3.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body{
+	max-width:850px;
+	max-height:2500px;
+	margin: 0 auto;
+	background-color:#999;
+	border:.352941% solid #666;
+	border-radius:1.176471%;
+	-moz-box-shadow:5px 5px 5px #666;
+	-webkit-box-shadow:5px 5px 5px #666;
+	box-shadow:5px 5px 5px #666;
+	padding:1.176471%;
+	overflow:auto;
+	font:100%;
+}
+
+ol li{
+	display:block;
+	padding:1.176471%;
+	margin:0 auto;
+	width:46.470588%;
+	float:left;
+}
+
+.about p{
+	margin: 0 20px;
+	-moz-column-count:3;
+	-moz-column-gap:0.2941176%;
+	column-count:3;
+	column-gap:0.2941176%;
+}
+
+h1{
+	text-shadow: 2px 2px 2px #111;
+	font-size:
+}
+
+
+/* -------------------------------Nav Elements--------------------------------------------------- */
+
+.list-nav{
+	width:94.117647058%;
+	margin: 0 auto;
+	background:#9ebf3b;
+	list-style-type:none;
+	padding:0;
+	overflow:auto;
+	font-family:"Helvetica Neue", sans-serif;
+	font-size:1.5em;
+	border:11.7647% solid black;
+	border-radius:11.76471%;
+	text-decoration:none;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	color:black;
+	background:#9ebf3b;
+	font-family:Anthology;
+
+}
+
+a{
+	width:23.529412%;
+	display:block;
+	float:left;	
+}
+
+a:hover{
+	color:white;
+	background:#9ebf3b;
+}
+a:visted{
+	color:purple;
+}
+
+/*--------------------------------Image Gallery----------------------------------------------------------*/
+.portfolio img{
+	margin:5.88235% auto;
+	list-style-type:none;
+	width:94.11765%;
+}
+
+.portfolio li{
+	float:left;
+	overflow:hidden;
+	padding:5.88235%;
+	clear:auto;
+}
+
+.portfolio a{
+	width:94.11765%;
+	border:solid;
+	display:block;
+	height:94.11765%;
+	width:94.11765%;
+	outline:0;
+}
+.portfolio a:hover{
+	color:white;
+	background:white;
+}
+/* -------------------------------Button Elements------------------------------------------------ */
+
+/* -------------------------------Email Elements------------------------------------------------ */
+
+/*-------------------------Table Elements----------------------------------------------------------*/
+
+table{
+	border-collapse:collapse;
+	border:.117647% solid #999;
+}
+
+td{
+	border:1px solid #000;
+	text-align:center;
+	padding:0.3em;
+
+}
+
+th{
+	text-align:center;
+	background-color:#000;
+	color:#9ebf3b;
+	padding:0.3em;
+}
+
+.packages{
+	background-color:#999;
+	text-color:#000;
+}
+
+.cost{
+	background-color:#fff;
+}
+
+.details{
+	background-color:#fff;
+}
+
+/*-------------------------Form Elements----------------------------------------------------------*/
+
+input:focus{
+	border-color:black;
+	background:grey;
+}
+
+/*-------------------------Footer Elements----------------------------------------------------------*/
+.footer{
+	text-align:center;
+	clear:left;
+	margin:0 auto;
+}
+
+/* =Media Queries
+============================================================ */
+
+/* Tablet Portrait size to standard 960 (device and browsers)*/
+@media screen and (min-width:768px) and (max-width:959px){
+	
+	.portfolio{
+		width:auto;
+		float:none;
+	}
+	
+	.list-nav{
+		overflow:none;
+		float:none;
+		overflow:none;
+	}
+	
+	.about{
+		float:none;
+	}
+	
+}
+/* Mobile Landscape size to Tablet Portrait (device and browsers)*/
+@media screen and (min-width:480px) and (max-width:767px){
+	
+	.portfolio{
+		width:auto;
+		float:none;
+	}
+	
+	.list-nav{
+		overflow:none;
+		float:none;
+		overflow:none;
+	}
+	
+	.about{
+		float:none;
+	}
+}
+/* Mobile Portrait Size size to Mobile Landscape (device and browsers)*/
+@media screen and (max-width:479px){
+	
+	.portfolio{
+		width:auto;
+		float:none;
+}
+	.list-nav{
+		overflow:none;
+		float:none;
+		overflow:none;
+	}
+	.about{
+		float:none;
+	}
+}
