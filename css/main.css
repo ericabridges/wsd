@@ -50,6 +50,10 @@ h2, h3, h4{
 	font-family:'Roboto Condensed', sans-serif;
 }
 
+blockquote{
+	font-family:'Roboto Condensed', sans-serif;
+}
+
 /* -------------------------------Nav Elements--------------------------------------------------- */
 
 ul{
@@ -72,7 +76,7 @@ ul{
 
 }
 
-ul li{
+#navigation{
 	float:left;
 }
 
