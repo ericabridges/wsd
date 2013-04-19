@@ -77,8 +77,8 @@ blockquote{
 	display:block;
 }
 
-a:li{
-	width:100px;
+ul li{
+	width:200px;
 	float:left;
 
 }
