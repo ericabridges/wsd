@@ -117,9 +117,9 @@ a:active{
 	width:94.11765%;
 	outline:0;
 }
-.portfolio a:hover{
+.gallery a:hover{
 	color:white;
-	background:white;
+	background:00aeef;
 }
 /* -------------------------------Button Elements------------------------------------------------ */
 
