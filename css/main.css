@@ -74,6 +74,7 @@ blockquote{
 	background:black;
 	font-family:'Roboto Condensed', sans-serif;
 	float:left;
+	display:block;
 }
 
 ul li{
