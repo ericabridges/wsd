@@ -95,14 +95,14 @@ a:active{
 
 /*--------------------------------Image Gallery----------------------------------------------------------*/
 #gallery img{
-	margin:5.88235% none;
+	margin:5.88235% auto;
 	list-style-type:none;
 	width:100px;
 }
 
 #gallery li{
 	float:left;
-	overflow:hidden;
+	overflow:none;
 	padding:5px;
 	clear:auto;
 	width:9.375em;
