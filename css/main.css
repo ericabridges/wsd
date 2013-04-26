@@ -77,7 +77,7 @@ blockquote{
 	display:block;
 }
 
-ul li{
+#navigation li{
 	width:9.375em;
 	float:left;
 
