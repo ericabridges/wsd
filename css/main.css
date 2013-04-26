@@ -101,7 +101,7 @@ a:active{
 }
 
 #gallery li{
-	float:left;
+	float:right;
 	overflow:hidden;
 	padding:25px;
 	clear:auto;
