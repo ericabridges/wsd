@@ -95,13 +95,13 @@ a:active{
 }
 
 /*--------------------------------Image Gallery----------------------------------------------------------*/
-.gallery img{
+#gallery img{
 	margin:5.88235% auto;
 	list-style-type:none;
 	width:94.11765%;
 }
 
-.gallery li{
+#gallery li{
 	float:left;
 	overflow:hidden;
 	padding:5.88235%;
@@ -109,7 +109,7 @@ a:active{
 	width:9.375em;
 }
 
-.gallery a{
+#gallery a{
 	width:94.11765%;
 	border:solid;
 	display:block;
@@ -117,7 +117,7 @@ a:active{
 	width:94.11765%;
 	outline:0;
 }
-.gallery a:hover{
+#gallery a:hover{
 	color:white;
 	background:29abe2;
 }
