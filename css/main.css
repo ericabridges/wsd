@@ -58,7 +58,7 @@ blockquote{
 /* -------------------------------Nav Elements--------------------------------------------------- */
 
 #navigation{
-	width:850px;
+	width:100%;
 	margin: 0 auto;
 	background:black;
 	list-style-type:none;
