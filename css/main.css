@@ -109,10 +109,10 @@ a:active{
 }
 
 #gallery a{
-	width:20px;
+	width:200px;
 	border:solid;
 	display:block;
-	height:20px;
+	height:200px;
 	outline:0;
 }
 #gallery a:hover{
