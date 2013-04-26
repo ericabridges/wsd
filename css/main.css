@@ -101,9 +101,9 @@ a:active{
 }
 
 #gallery li{
-	float:right;
+	float:left;
 	overflow:hidden;
-	padding:25px;
+	padding:2.94117%;
 	clear:auto;
 	width:9.375em;
 }
@@ -116,8 +116,11 @@ a:active{
 	outline:0;
 }
 #gallery a:hover{
-	color:white;
-	
+	color:white;	
+}
+
+aside{
+	float:right;
 }
 /* -------------------------------Button Elements------------------------------------------------ */
 
