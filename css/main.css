@@ -80,7 +80,6 @@ blockquote{
 #navigation li{
 	width:9.375em;
 	float:left;
-
 }
 
 a:hover{
@@ -107,6 +106,7 @@ a:active{
 	overflow:hidden;
 	padding:5.88235%;
 	clear:auto;
+	width:9.375em;
 }
 
 .gallery a{
