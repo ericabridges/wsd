@@ -65,7 +65,7 @@ blockquote{
 	padding:0;
 	overflow:hidden;
 	font-size:1.250em;
-	border:11.7647% solid black;
+	border:solid black 11.7647%;
 	text-decoration:none;
 	height:3.125em;
 	line-height:1.250em;
@@ -159,8 +159,7 @@ aside{
 	.list-nav{
 		overflow:none;
 		float:none;
-		overflow:none;
-	}
+	}	
 	
 	.about{
 		float:none;
