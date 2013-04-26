@@ -83,7 +83,6 @@ blockquote{
 }
 
 a:hover{
-	color:00aeef;
 	background:white;
 }
 a:visted{
@@ -96,7 +95,7 @@ a:active{
 
 /*--------------------------------Image Gallery----------------------------------------------------------*/
 #gallery img{
-	margin:5.88235% auto;
+	margin:5.88235% none;
 	list-style-type:none;
 	width:94.11765%;
 }
@@ -118,7 +117,7 @@ a:active{
 }
 #gallery a:hover{
 	color:white;
-	background:29abe2;
+	
 }
 /* -------------------------------Button Elements------------------------------------------------ */
 
