@@ -109,10 +109,10 @@ a:active{
 }
 
 #gallery a{
-	width:94.11765%;
+	width:20px;
 	border:solid;
 	display:block;
-	height:94.11765%;
+	height:20px;
 	outline:0;
 }
 #gallery a:hover{
