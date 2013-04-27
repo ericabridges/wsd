@@ -79,7 +79,7 @@ blockquote{
 
 #navigation li{
 	width:9.375em;
-	
+	float:left;
 }
 
 a:hover{
