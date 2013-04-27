@@ -132,7 +132,7 @@ aside{
 /* Tablet Portrait size to standard 960 (device and browsers)*/
 @media screen and (min-width:768px) and (max-width:959px){
 	
-	.portfolio{
+	#gallery{
 		width:auto;
 		float:none;
 	}
@@ -151,7 +151,7 @@ aside{
 /* Mobile Landscape size to Tablet Portrait (device and browsers)*/
 @media screen and (min-width:480px) and (max-width:767px){
 	
-	.portfolio{
+	#gallery{
 		width:auto;
 		float:none;
 	}
@@ -168,7 +168,7 @@ aside{
 /* Mobile Portrait Size size to Mobile Landscape (device and browsers)*/
 @media screen and (max-width:479px){
 	
-	.portfolio{
+	#gallery{
 		width:auto;
 		float:none;
 }
