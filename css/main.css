@@ -67,8 +67,8 @@ blockquote{
 	font-size:1.250em;
 	border:solid black 2px;
 	text-decoration:none;
-	height:50px;
-	line-height:20px;
+	height:5.882%; /* 50px / 850px */
+	line-height:2.352%; /*20px / 850px */
 	text-align:center;
 	color:#0099ff;
 	background:black;
