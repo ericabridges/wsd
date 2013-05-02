@@ -78,7 +78,7 @@ blockquote{
 }
 
 #navigation li{
-	width:9.375em;
+	width:150px;
 	float:left;
 }
 
@@ -183,7 +183,7 @@ input:focus{
 	}
 	
 	.list-nav{
-		overflow:auto;
+		overflow:hidden;
 		float:none;
 		overflow:auto;
 	}
@@ -202,7 +202,7 @@ input:focus{
 	}
 	
 	.list-nav{
-		overflow:auto;
+		overflow:hidden;
 		float:none;
 	}	
 	
@@ -218,9 +218,8 @@ input:focus{
 		float:none;
 }
 	.list-nav{
-		overflow:auto;
+		overflow:hidden;
 		float:none;
-		overflow:auto;
 	}
 	.about{
 		float:none;
