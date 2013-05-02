@@ -177,13 +177,13 @@ input:focus{
 /* Tablet Portrait size to standard 960 (device and browsers)*/
 @media screen and (min-width:768px) and (max-width:959px){
 	
-	#gallery{
-		width:auto;
+	aside{
+		width:46%;
 		float:left;
 	}
 	
 	#navigation{
-		overflow:none;
+		overflow:auto;
 		float:none;
 	}
 	
@@ -195,13 +195,13 @@ input:focus{
 /* Mobile Landscape size to Tablet Portrait (device and browsers)*/
 @media screen and (min-width:480px) and (max-width:767px){
 	
-	#gallery{
-		width:auto;
+	aside{
+		width:46%;
 		float:left;
 	}
 	
 	#navigation{
-		overflow:none;
+		overflow:auto;
 		float:none;
 	}	
 	
@@ -212,14 +212,13 @@ input:focus{
 /* Mobile Portrait Size size to Mobile Landscape (device and browsers)*/
 @media screen and (max-width:479px){
 	
-	#gallery{
-		width:auto;
+	aside{
+		width:46%;
 		float:left;
 }
 	#navigation{
-		overflow:none;
+		overflow:auto;
 		float:none;
-		overflow:none;
 	}
 	#article{
 		float:none;
