@@ -102,9 +102,9 @@ a:active{
 
 #gallery li{
 	float:left;
-	overflow:none;
+	overflow:hidden;
 	padding:5px;
-	clear:auto;
+	clear:both;
 	width:9.375em;
 }
 
