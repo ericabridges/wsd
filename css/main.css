@@ -35,7 +35,7 @@ ol li{
 .about p{
 	margin: 0 20px;
 	-moz-column-count:3;
-	-moz-column-gap:0.2941176%;
+	-moz-column-gap:3px;
 	column-count:3;
 	column-gap:3px;
 	font-family:'Roboto Condensed', sans-serif;
@@ -52,7 +52,7 @@ h2, h3, h4{
 
 blockquote{
 	font-family:'Roboto Condensed', sans-serif;
-	font-size:40px;
+	font-size:1.000em;
 }
 
 /* -------------------------------Nav Elements--------------------------------------------------- */
@@ -78,7 +78,7 @@ blockquote{
 }
 
 #navigation li{
-	width:155px;
+	width:18.235294%;
 	float:left;
 }
 
