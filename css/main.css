@@ -65,7 +65,7 @@ blockquote{
 	padding:0;
 	overflow:hidden;
 	font-size:1.250em;
-	border:solid black 11.7647%;
+	border:solid black 150px;
 	text-decoration:none;
 	height:3.125em;
 	line-height:1.250em;
@@ -102,9 +102,9 @@ a:active{
 
 #gallery li{
 	float:left;
-	overflow:none;
+	overflow:hidden;
 	padding:5px;
-	clear:auto;
+	clear:both;
 	width:9.375em;
 }
 
@@ -127,7 +127,7 @@ aside{
 
 table{
 	border-collapse:collapse;
-	border:.117647% solid #999;
+	border:17.6470% solid #999;
 }
 
 td{
@@ -183,9 +183,9 @@ input:focus{
 	}
 	
 	.list-nav{
-		overflow:none;
+		overflow:auto;
 		float:none;
-		overflow:none;
+		overflow:auto;
 	}
 	
 	.about{
@@ -202,7 +202,7 @@ input:focus{
 	}
 	
 	.list-nav{
-		overflow:none;
+		overflow:auto;
 		float:none;
 	}	
 	
@@ -218,9 +218,9 @@ input:focus{
 		float:none;
 }
 	.list-nav{
-		overflow:none;
+		overflow:auto;
 		float:none;
-		overflow:none;
+		overflow:auto;
 	}
 	.about{
 		float:none;
