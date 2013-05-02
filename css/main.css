@@ -64,11 +64,11 @@ blockquote{
 	list-style-type:none;
 	padding:0;
 	overflow:hidden;
-	font-size:1.375em;
+	font-size:1.250em;
 	border:solid black 2px;
 	text-decoration:none;
 	height:50px;
-	line-height:1.250em;
+	line-height:20px;
 	text-align:center;
 	color:#0099ff;
 	background:black;
