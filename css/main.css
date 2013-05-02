@@ -63,12 +63,12 @@ blockquote{
 	background:black;
 	list-style-type:none;
 	padding:5px;
-	overflow:auto;
+	overflow:hidden;
 	font-size:1.250em;
 	border:solid black 150px;
 	text-decoration:none;
-	height:3.125em;
-	line-height:1.250em;
+	height:50px;
+	line-height:20px;
 	text-align:center;
 	color:#29abe2;
 	background:black;
@@ -146,7 +146,7 @@ th{
 
 .packages{
 	background-color:#999;
-	text-color:#000;
+	text-color:#29abe2;
 }
 
 .cost{
