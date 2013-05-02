@@ -70,7 +70,7 @@ blockquote{
 	height:50px;
 	line-height:1.250em;
 	text-align:center;
-	color:#29abe2;
+	color:#0099ff;
 	background:black;
 	font-family:'Roboto Condensed', sans-serif;
 	float:left;
@@ -140,7 +140,7 @@ td{
 th{
 	text-align:center;
 	background-color:#000;
-	color:#9ebf3b;
+	color:#0099ff;
 	padding:4px;
 }
 
