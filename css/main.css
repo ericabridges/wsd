@@ -70,7 +70,7 @@ blockquote{
 	height:3.125em;
 	line-height:1.250em;
 	text-align:center;
-	color:29abe2;
+	color:#29abe2;
 	background:black;
 	font-family:'Roboto Condensed', sans-serif;
 	float:left;
@@ -85,7 +85,7 @@ blockquote{
 a:hover{
 	background:white;
 }
-a:visted{
+a:visited{
 	color:purple;
 }
 
@@ -127,7 +127,7 @@ aside{
 
 table{
 	border-collapse:collapse;
-	border:17.6470% solid #999;
+	border:150px solid #999;
 }
 
 td{
