@@ -188,7 +188,7 @@ input:focus{
 		overflow:auto;
 	}
 	
-	.about{
+	aside{
 		float:none;
 	}
 	
@@ -206,7 +206,7 @@ input:focus{
 		float:none;
 	}	
 	
-	.about{
+	aside{
 		float:none;
 	}
 }
@@ -221,7 +221,7 @@ input:focus{
 		overflow:hidden;
 		float:none;
 	}
-	.about{
+	aside{
 		float:none;
 	}
 }
