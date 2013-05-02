@@ -178,7 +178,7 @@ input:focus{
 @media screen and (min-width:768px) and (max-width:959px){
 	
 	#gallery{
-		width:46%;
+		width:auto;
 		float:left;
 	}
 	
@@ -215,7 +215,7 @@ input:focus{
 	
 	#gallery{
 		width:auto;
-		float:none;
+		float:left;
 }
 	.list-nav{
 		overflow:none;
