@@ -37,7 +37,7 @@ ol li{
 	-moz-column-count:3;
 	-moz-column-gap:0.2941176%;
 	column-count:3;
-	column-gap:0.2941176%;
+	column-gap:3px;
 	font-family:'Roboto Condensed', sans-serif;
 }
 
