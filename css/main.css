@@ -63,7 +63,7 @@ blockquote{
 	background:black;
 	list-style-type:none;
 	padding:5px;
-	overflow:hidden;
+	overflow:auto;
 	font-size:1.250em;
 	border:solid black 150px;
 	text-decoration:none;
