@@ -104,7 +104,7 @@ a:active{
 	float:left;
 	overflow:hidden;
 	padding:5px;
-	clear:left;
+	clear:both;
 	width:9.375em;
 }
 
@@ -133,7 +133,7 @@ table{
 td{
 	border:1px solid #000;
 	text-align:center;
-	padding:0.3em;
+	padding:4px;
 
 }
 
@@ -141,12 +141,12 @@ th{
 	text-align:center;
 	background-color:#000;
 	color:#9ebf3b;
-	padding:0.3em;
+	padding:4px;
 }
 
 .packages{
 	background-color:#999;
-	text-color:#000;
+	text-color:#29abe2;
 }
 
 .cost{
