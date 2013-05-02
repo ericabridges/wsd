@@ -182,13 +182,12 @@ input:focus{
 		float:left;
 	}
 	
-	.list-nav{
+	#navigation{
 		overflow:none;
 		float:none;
-		overflow:none;
 	}
 	
-	.about{
+	#article{
 		float:none;
 	}
 	
@@ -201,12 +200,12 @@ input:focus{
 		float:left;
 	}
 	
-	.list-nav{
+	#navigation{
 		overflow:none;
 		float:none;
 	}	
 	
-	.about{
+	#article{
 		float:none;
 	}
 }
@@ -217,12 +216,12 @@ input:focus{
 		width:auto;
 		float:left;
 }
-	.list-nav{
+	#navigation{
 		overflow:none;
 		float:none;
 		overflow:none;
 	}
-	.about{
+	#article{
 		float:none;
 	}
 }
