@@ -67,10 +67,10 @@ blockquote{
 	font-size:1.250em;
 	border:solid black 5px;
 	text-decoration:none;
-	height:3.125em;
+	height:30px;
 	line-height:1.250em;
 	text-align:center;
-	color:29abe2;
+	color:#29abe2;
 	background:black;
 	font-family:'Roboto Condensed', sans-serif;
 	float:left;
