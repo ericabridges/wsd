@@ -35,7 +35,7 @@ ol li{
 .about p{
 	margin: 0 20px;
 	-moz-column-count:3;
-	-moz-column-gap:3px;
+	-moz-column-gap:5px;
 	column-count:3;
 	column-gap:3px;
 	font-family:'Roboto Condensed', sans-serif;
