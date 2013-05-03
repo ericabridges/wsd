@@ -74,7 +74,7 @@ blockquote{
 	background:black;
 	font-family:'Roboto Condensed', sans-serif;
 	float:left;
-	display:block;
+	display:inline-block;
 }
 
 #navigation li{
@@ -146,7 +146,7 @@ th{
 
 .packages{
 	background-color:#999;
-	text-color:#0099ff;
+	color:#0099ff;
 }
 
 .cost{
