@@ -179,7 +179,7 @@ input:focus{
 	
 	aside{
 		width:46%;
-		float:left;
+		float:none;
 	}
 	
 	#navigation{
@@ -197,7 +197,7 @@ input:focus{
 	
 	aside{
 		width:46%;
-		float:left;
+		float:none;
 	}
 	
 	#navigation{
@@ -214,7 +214,7 @@ input:focus{
 	
 	aside{
 		width:46%;
-		float:left;
+		float:none;
 }
 	#navigation{
 		overflow:auto;
